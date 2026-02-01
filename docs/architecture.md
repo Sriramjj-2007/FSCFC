@@ -1,3 +1,4 @@
+← [Back to README](../README.md)
 # System Architecture — Autonomous Multi-Rover Farming System (Farm OS)
 
 This document explains **how the entire system is wired together**, why each layer exists, and where intelligence lives. If this architecture fails, the farm fails — so this is intentionally conservative, modular, and scalable.
@@ -16,7 +17,7 @@ This document explains **how the entire system is wired together**, why each lay
 ┌───────────────▼───────────────┐
 │   Central Fleet Intelligence  │
 │  • Mission Planner            │
-│  • AI / Optimization Engine  │
+│  • AI / Optimization Engine   │
 │  • Fleet Monitor              │
 │  • Data Store                 │
 └───────────────┬───────────────┘
@@ -94,7 +95,7 @@ Rover A        Rover B          Rover C
 ┌───────────────▼─────────────────────┐
 │ Data Layer                          │
 │ • PostgreSQL                        │
-│ • Time-Series DB                   │
+│ • Time-Series DB                    │
 └─────────────────────────────────────┘
 ```
 
@@ -126,7 +127,7 @@ Each rover is **semi-autonomous** — capable of survival, not strategy.
 │ • Encoder Feedback           │
 └───────────────┬──────────────┘
 ┌───────────────▼──────────────┐
-│ Hardware                      │
+│ Hardware                     │
 │ • Motors, Sensors, Tools     │
 └──────────────────────────────┘
 ```
@@ -222,3 +223,4 @@ Those sound cool. They fail in fields.
 
 **If this architecture survives mud, heat, bad GPS, and flaky networks — then it’s real. Everything else is a demo.**
 
+← [Back to README](../README.md)

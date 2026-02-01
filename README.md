@@ -7,7 +7,7 @@ A scalable, AI-driven farming platform using multiple autonomous rovers (tractor
 ## Table of Contents
 - [Overview](#overview)
 - [Key Features](#key-features)
-- [System Architecture](docs/architecture.md)
+- [System Architecture](system-architecture)
 - [Rovers](#rovers)
 - [Central Fleet Intelligence](#central-fleet-intelligence)
 - [Communication](#communication)
@@ -226,12 +226,13 @@ No autonomy without kill switches. Period.
 ---
 
 ## Roadmap
+
 - Swarm-level optimization
 - Autonomous charging stations
 - Weather-adaptive planning
 - Fully offline mode
 - Open hardware rover design
-
+[Nithin](docs/roadmap.md)
 ---
 
 ## Contributing
