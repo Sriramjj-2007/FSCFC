@@ -18,7 +18,7 @@ A scalable, AI-driven farming platform using multiple autonomous rovers (tractor
 - [Deployment](#deployment)
 - [Safety & Reliability](#safety--reliability)
 - [Roadmap](#roadmap)
-- [Contributing](#contributing)
+- [Contributors](#contributors)
 - [License](#license)
 
 ---
