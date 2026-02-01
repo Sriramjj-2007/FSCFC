@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Autonomous Multi-Rover Farming System (Farm OS)
 
 A scalable, AI-driven farming platform using multiple autonomous rovers (tractor-like vehicles) coordinated by a centralized fleet intelligence server. The system automates ploughing, sowing, irrigation support, crop monitoring, and harvesting with real-time telemetry and farmer-facing control apps.
@@ -249,3 +250,29 @@ MIT License
 
 **This project is built to scale from small farms to industrial agriculture. If it can’t survive dust, heat, and bad network — it’s not done yet.**
 
+=======
+# Project Name
+
+## Overview
+What this system does and why it exists.
+
+## System Architecture
+(High-level explanation + diagram)
+
+## Key Features
+- Autonomous rovers
+- Centralized fleet intelligence
+- Live monitoring app
+
+## Repository Structure
+Explain important folders/files.
+
+## Setup & Usage
+Minimal steps to run / simulate.
+
+## Documentation Index
+Links to deeper docs (still in repo).
+
+## Future Work
+Where this is going.
+>>>>>>> f74f12eb687acfaccf201ca84a9ba7b2de71be98
