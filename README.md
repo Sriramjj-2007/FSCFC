@@ -237,7 +237,8 @@ No autonomy without kill switches. Period.
 ## Contributors
 Contributions are welcome.
 
-- [Nithin](docs/roadmap.md)
+- [Nithin](docs/nithin.md)
+- [Murali](docs/murali.md)
 
 ---
 
