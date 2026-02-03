@@ -18,8 +18,8 @@ A scalable, AI-driven farming platform using multiple autonomous rovers (tractor
 - [Deployment](#deployment)
 - [Safety & Reliability](#safety--reliability)
 - [Roadmap](#roadmap)
-- [Contributors](#contributors)
-- [License](#license)
+<!-- - [Contributors](#contributors)
+- [License](#license) -->
 
 ---
 
@@ -178,7 +178,7 @@ Verdict: **Sodium-ion wins for agriculture scale.**
 ## Data & AI
 
 ### AI Models
-- Path planning (A*, RRT*)
+- Path planning <!--(A*, RRT*)-->
 - Task scheduling (optimization algorithms)
 - Crop health analysis (vision)
 - Anomaly detection (equipment failure)
@@ -193,7 +193,7 @@ Verdict: **Sodium-ion wins for agriculture scale.**
 ### Features
 - Live rover tracking
 - Start / pause / abort missions
-- Battery & fuel monitoring
+- Battery
 - Field health dashboard
 - Alerts (stuck rover, low battery, sensor fault)
 
@@ -222,7 +222,6 @@ UX priority: **Simple, readable, no tech jargon.**
 - Watchdog timers
 - Redundant comms
 
-No autonomy without kill switches. Period.
 
 ---
 
@@ -235,7 +234,7 @@ No autonomy without kill switches. Period.
 - Open hardware rover design
 ---
 
-## Contributors
+<!-- ## Contributors
 Contributions are welcome.
 
 - [Nithin](docs/nithin.md)
@@ -248,4 +247,4 @@ MIT License
 
 ---
 
-**This project is built to scale from small farms to industrial agriculture. If it can’t survive dust, heat, and bad network — it’s not done yet.**
+**This project is built to scale from small farms to industrial agriculture. If it can’t survive dust, heat, and bad network — it’s not done yet.** -->
