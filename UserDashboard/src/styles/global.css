@@ -38,7 +38,7 @@ body {
 .online-dot {
   background-color: #22c55e; /* green */
   box-shadow: 0 0 6px #22c55e;
-  animation: pulse 1.5s infinite;
+  animation: pulse 2s infinite;
 }
 
 .offline-dot {
